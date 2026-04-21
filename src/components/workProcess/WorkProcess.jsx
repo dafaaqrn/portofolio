@@ -44,14 +44,15 @@ const WorkProcess = () => {
       <div className="lg:pe-10 xl:pe-35.75 max-xs:mb-3 max-xl:mb-8">
         <p className="section-title max-xl:text-center">Work Process</p>
         <p className="mt-6 mb-4 md:text-[18px] text-sm font-normal max-xl:text-center text-gray-500">
-          Driven by design and powered by code, I create digital interfaces that
-          feel intuitive and perform seamlessly. Every layout, animation, and
-          component is crafted with intention — merging usability with visual
-          clarity,
+          Didorong oleh pemikiran desain dan diperkuat dengan kemampuan teknis, 
+          saya membangun aplikasi dan sistem digital yang efisien, intuitif, 
+          dan berorientasi pada solusi nyata. 
+
         </p>
         <p className="mt-6 md:text-[18px] text-sm font-normal max-xl:text-center text-gray-500">
-          I blend clean design with efficient code to build engaging,
-          user-friendly web experiences that stand out.
+          Saya menggabungkan struktur kode 
+          yang rapi dengan pendekatan yang berfokus pada pengguna untuk menciptakan 
+          pengalaman yang optimal dan fungsional.
         </p>
       </div>
 

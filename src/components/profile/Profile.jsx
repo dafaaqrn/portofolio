@@ -50,13 +50,16 @@ const Profile = () => {
           <div className="mt-8 flex max-md:justify-center">
             <a
               className="btn xxs:btn-lg px-6 max-xs:px-2 xxs:py-3 btn-primary text-xs xxs:text-[14px] sm:text-[16px]"
-              href="#!"
+              href="https://github.com/dafaaqrn"
+              target="_blank"
+              rel="noopener noreferrer" 
             >
               My Projects
             </a>
             <a
               className={`btn xxs:btn-lg px-6 max-xs:px-2 xxs:py-3 hover:border-picto-primary bg-white duration-300 transition-all hover:text-picto-primary  ms-4 text-xs xxs:text-[14px] sm:text-[16px]`}
-              href="#!"
+              href="/Rifqi-Dafa-Resume.pdf"
+              download="Rifqi-Dafa-Resume.pdf"
             >
               <FontAwesomeIcon icon={faDownload} /> Download CV
             </a>
