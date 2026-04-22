@@ -1,8 +1,8 @@
 import Projects from "./Projects";
-import card1 from "../../assets/images/portfolio-images/mitra-sengon.jpeg";
-import card2 from "../../assets/images/portfolio-images/legit.png";
-import card3 from "../../assets/images/portfolio-images/card-3.png";
-import card4 from "../../assets/images/portfolio-images/card-4.png";
+import card1 from "../../assets/images/portfolio-images/framelogin.png";
+import card2 from "../../assets/images/portfolio-images/mitra-sengon.jpeg";
+import card3 from "../../assets/images/portfolio-images/legit.png";
+import card4 from "../../assets/images/portfolio-images/demo.png";
 import card5 from "../../assets/images/portfolio-images/card-5.png";
 import card6 from "../../assets/images/portfolio-images/card-6.png";
 
@@ -11,28 +11,28 @@ const projectData = [
     id: 1,
     image: card1,
     category: "UI-UX DESIGN",
-    title: "Product Admin Dashboard",
+    title: "High School Library Desktop App",
     description:
       "I focus on crafting smooth, responsive interfaces that balance aesthetic appeal with practical functionality.",
-    link: "#!",
+    link: "https://github.com/dafaaqrn/perpustakaan-dekstop-app",
   },
   {
     id: 2,
     image: card2,
     category: "UI-UX DESIGN",
-    title: "Legit Secure Track And Trace System",
+    title: "Web Mitra Sengon Dashboard",
     description:
       "Designed an intuitive dashboard for product management, emphasizing clarity and user efficiency.",
-    link: "https://github.com/d1aznr/secure-track",
+    link: "https://github.com/dafaaqrn/web-mitra-sengon",
   },
   {
     id: 3,
     image: card3,
     category: "UI-UX DESIGN",
-    title: "Product Admin Dashboard",
+    title: "Legit Secure Track And Trace System",
     description:
       "Developed a modern admin panel with a focus on usability and seamless navigation for end users and so on.",
-    link: "#!",
+    link: "https://github.com/d1aznr/secure-track",
   },
   {
     id: 4,
