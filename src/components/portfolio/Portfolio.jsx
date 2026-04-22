@@ -1,6 +1,6 @@
 import Projects from "./Projects";
-import card1 from "../../assets/images/portfolio-images/card-1.png";
-import card2 from "../../assets/images/portfolio-images/card-2.png";
+import card1 from "../../assets/images/portfolio-images/mitra-sengon.jpeg";
+import card2 from "../../assets/images/portfolio-images/legit.png";
 import card3 from "../../assets/images/portfolio-images/card-3.png";
 import card4 from "../../assets/images/portfolio-images/card-4.png";
 import card5 from "../../assets/images/portfolio-images/card-5.png";
@@ -20,10 +20,10 @@ const projectData = [
     id: 2,
     image: card2,
     category: "UI-UX DESIGN",
-    title: "Product Admin Dashboard",
+    title: "Legit Secure Track And Trace System",
     description:
       "Designed an intuitive dashboard for product management, emphasizing clarity and user efficiency.",
-    link: "#!",
+    link: "https://github.com/d1aznr/secure-track",
   },
   {
     id: 3,
@@ -73,8 +73,9 @@ const Portfolio = () => {
         <div className="max-sm:px-2 text-center mx-auto max-w-144.25">
           <p className="section-title ">Portfolio</p>
           <p className="font-normal text-[18px] max-sm:text-[14px] pt-6 text-gray-400">
-            Here's a selection of my recent work, showcasing my skills in
-            creating user-centric and visually appealing interfaces.
+            Berikut beberapa karya yang menunjukkan kemampuan saya 
+            dalam mengembangkan sistem yang terstruktur, berorientasi pada 
+            kebutuhan pengguna, serta didukung oleh pengalaman profesional di berbagai bidang.
           </p>
         </div>
       </div>
